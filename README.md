@@ -1,12 +1,16 @@
-# COVID-19 Cases in Indonesian Provinces - EDA with Python
+![image](https://github.com/afrisiringo/Covid19Indonesia-EDAwithPython/assets/151942031/4ae32b41-300b-48e9-af27-ec295e358b08)# COVID-19 Cases in Indonesian Provinces - EDA with Python
 
 This repository contains an Exploratory Data Analysis (EDA) project on COVID-19 cases across different provinces in Indonesia. The analysis covers the time range from March 2020 to September 2022, providing insights into the pandemic's progression throughout the country. 
 
 ## Usage
 
 - The dataset used in this analysis can be accessed in `covid_19_indonesia_time_series_all.csv`
-- The EDA script is available in `Covid19 Indonesia - EDA.ipynb`
+- The EDA script is available in `Covid19 Indonesia - EDA.ipynb` **You can view the notebook on https://colab.research.google.com/github/afrisiringo/Covid19Indonesia-EDAwithPython/blob/main/Covid19%20Indonesia%20-%20EDA.ipynb**
 - Dependencies and required packages are listed in `requirements.txt`
+
+## Note
+
+There is a problem rendering the notebook on GitHub. As an alternative you can view the notebook in the Google Colab link provided
 
 ## Aspects Analyzed
 
