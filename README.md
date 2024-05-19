@@ -4,9 +4,9 @@ This repository contains an Exploratory Data Analysis (EDA) project on COVID-19 
 
 ## Usage
 
-The dataset used in this analysis can be accessed in `covid_19_indonesia_time_series_all.csv`
-The EDA script is available in `Covid19 Indonesia - EDA.ipynb`
-Dependencies and required packages are listed in `requirements.txt`
+- The dataset used in this analysis can be accessed in `covid_19_indonesia_time_series_all.csv`
+- The EDA script is available in `Covid19 Indonesia - EDA.ipynb`
+- Dependencies and required packages are listed in `requirements.txt`
 
 ## Aspects Analyzed
 
