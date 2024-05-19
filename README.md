@@ -1,4 +1,4 @@
-![image](https://github.com/afrisiringo/Covid19Indonesia-EDAwithPython/assets/151942031/4ae32b41-300b-48e9-af27-ec295e358b08)# COVID-19 Cases in Indonesian Provinces - EDA with Python
+# COVID-19 Cases in Indonesian Provinces - EDA with Python
 
 This repository contains an Exploratory Data Analysis (EDA) project on COVID-19 cases across different provinces in Indonesia. The analysis covers the time range from March 2020 to September 2022, providing insights into the pandemic's progression throughout the country. 
 
