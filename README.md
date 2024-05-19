@@ -10,7 +10,7 @@ This repository contains an Exploratory Data Analysis (EDA) project on COVID-19 
 
 ## Note
 
-There is a problem rendering the notebook on GitHub. As an alternative you can view the notebook in the Google Colab link provided
+There is a problem with rendering the notebook on GitHub. As an alternative, you can view the notebook at the link provided.
 
 ## Aspects Analyzed
 
